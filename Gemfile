@@ -14,3 +14,5 @@ gem "m"
 # gem "standard-performance", path: "../standard-performance"
 
 gem "simplecov"
+
+gem 'rubocop', git: 'https://github.com/RubyCI/rubocop.git', branch: 'patch'
